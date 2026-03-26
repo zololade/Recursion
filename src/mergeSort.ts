@@ -40,6 +40,5 @@ export function mergeSort(val: number[]): number[] {
     sortedRightIndex++;
   }
 
-  console.log(outputArr);
   return outputArr;
 }
